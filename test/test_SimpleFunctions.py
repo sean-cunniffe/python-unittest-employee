@@ -1,10 +1,8 @@
+# Created By SEAN CUNNIFFE on 14/01/2021
 import unittest
 from unittest import TestCase
-
 import SimpleFunctions
 
-
-# Created By SEAN CUNNIFFE on 14/01/2021
 
 # Import TestCase for testing
 class Test(TestCase):
